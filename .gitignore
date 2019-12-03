@@ -1,2 +1,6 @@
 public/
 .idea/
+resources/
+content_example/
+.vscode/
+.DS_Store

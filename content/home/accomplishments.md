@@ -3,9 +3,9 @@
 widget = "accomplishments"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 50  # Order that this section will appear.
+weight = 150  # Order that this section will appear.
 
-title = "Accomplish&shy;ments"
+title = "Honors"
 subtitle = ""
 
 # Date format
@@ -19,33 +19,63 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
-  organization = "Coursera"
-  organization_url = "https://www.coursera.org"
-  title = "Neural Networks and Deep Learning"
+  organization = "Top 1%"
+  organization_url = ""
+  title = "Undergraduate National Scholarship"
   url = ""
-  certificate_url = "https://www.coursera.org"
-  date_start = "2018-10-01"
+  certificate_url = ""
+  date_start = "2016-09-01"
+  date_end = "2017-09-01"
+  description = ""
+
+[[item]]
+  organization = "Top 5%"
+  organization_url = ""
+  title = "The First Prize Undergraduate Scholarship of Sun Yat-sen Unversity"
+  url = ""
+  certificate_url = ""
+  date_start = "2016-09-01"
+  date_end = "2017-09-01"
+  description = ""
+  
+[[item]]
+  organization = "Top 20%"
+  organization_url = ""
+  title = "Honorable Mention of American Mathematical Contest in Modeling"
+  url = ""
+  certificate_url = ""
+  date_start = "2016-01-01"
   date_end = ""
   description = ""
 
 [[item]]
-  organization = "edX"
-  organization_url = "https://www.edx.org"
-  title = "Blockchain Fundamentals"
-  url = "https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals"
-  certificate_url = "https://www.edx.org"
-  date_start = "2018-03-01"
-  date_end = ""
-  description = "Formulated informed blockchain models, hypotheses, and use cases."
-  
-[[item]]
-  organization = "DataCamp"
-  organization_url = "https://www.datacamp.com"
-  title = "Object-Oriented Programming in R: S3 and R6 Course"
+  organization = "Top 5%"
+  organization_url = ""
+  title = "The Second Prize of China Undergraduate Mathematical Contest in Modeling"
   url = ""
-  certificate_url = "https://www.datacamp.com"
-  date_start = "2017-07-01"
-  date_end = "2017-12-21"
+  certificate_url = ""
+  date_start = "2016-08-01"
+  date_end = ""
+  description = ""
+
+[[item]]
+  organization = "Top 10%"
+  organization_url = ""
+  title = "The First Prize Graduate Scholarship of Sun Yat-sen Unversity"
+  url = ""
+  certificate_url = ""
+  date_start = "2018-09-01"
+  date_end = "2020-09-01"
+  description = ""
+
+[[item]]
+  organization = "Top 5%, Rank 33/735 (Silver)"
+  organization_url = ""
+  title = "Kaggle: Carvana Image Masking Challenge"
+  url = ""
+  certificate_url = ""
+  date_start = "2017-08-20"
+  date_end = "2017-10-01"
   description = ""
 
 +++
