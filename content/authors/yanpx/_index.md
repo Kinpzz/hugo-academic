@@ -46,7 +46,7 @@ interests:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:kinpzzz@gmail.com'  # For a direct email link, use "mailto:test@example.org".
+  link: 'mailto:yanpx@live.com'  # For a direct email link, use "mailto:test@example.org".
 # - icon: twitter
 #   icon_pack: fab
 #   link: https://twitter.com/GeorgeCushen
@@ -72,4 +72,4 @@ user_groups:
 - Visitors
 ---
 
-I am currently a second-year M.S. candidate in School of Data and Computer Science, Sun Yat-sen University. I am working at [Human Cyber Physical Intelligence Integration Lab](http://sysu-hcp.net/) under the supervision of [Prof. Guanbin Li](http://guanbinli.com/) and [Prof. Liang Lin](http://linliang.net/). Before that, I received the B.E. degree in software engineering from Sun Yat-sen University in 2018. Roughly, my research interests include deep learning and computer vision.
+I am currently a computer vision engineer at Bytedance Intelligent Creation Lab. I obtained my M.S. degree in computer science from Sun Yat-sen University in 2021, advised by [Prof. Guanbin Li](http://guanbinli.com/) and [Prof. Liang Lin](http://linliang.net/). Before that, I received the B.E. degree in software engineering from Sun Yat-sen University in 2018. Roughly, my research interests include deep learning and computer vision.
