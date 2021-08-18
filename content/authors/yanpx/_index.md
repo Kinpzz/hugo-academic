@@ -1,6 +1,6 @@
 ---
 # Display name
-name: "Pengxiang Yan"
+title: "Pengxiang Yan"
 
 # Username (this should match the folder name)
 authors:
@@ -10,12 +10,13 @@ authors:
 superuser: true
 
 # Role/position
-role: M.S. Candidate in Computer Science and Technology
+role: Computer Vision Engineer
 
 # Organizations/Affiliations
-organizations:
-- name: Sun Yat-sen University
-  url: "http://sysu.edu.cn/"
+organizations: 
+- name: ByteDance Ltd.
+  url: https://bytedance.com/
+
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include deep learning and computer vision, such as segmentation, saliency detection, video analysis, and semi-supervised learning. 
@@ -65,11 +66,13 @@ social:
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
 
+highlight_name: true
+
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
-user_groups:
-- Researchers
-- Visitors
+# user_groups:
+# - Researchers
+# - Visitors
 ---
 
-I am currently a computer vision engineer at Bytedance Intelligent Creation Lab. I obtained my M.S. degree in computer science from Sun Yat-sen University in 2021, advised by [Prof. Guanbin Li](http://guanbinli.com/) and [Prof. Liang Lin](http://linliang.net/). Before that, I received the B.E. degree in software engineering from Sun Yat-sen University in 2018. Roughly, my research interests include deep learning and computer vision.
+I am currently a computer vision engineer at ByteDance Intelligent Creation Lab. I obtained my M.S. degree in computer science from Sun Yat-sen University in 2021, advised by [Prof. Guanbin Li](http://guanbinli.com/) and [Prof. Liang Lin](http://linliang.net/). Before that, I received the B.E. degree in software engineering from Sun Yat-sen University in 2018. Roughly, my research interests include deep learning and computer vision.

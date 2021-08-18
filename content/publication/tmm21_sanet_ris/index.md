@@ -1,12 +1,16 @@
 ---
 title: "Structured Attention Network for Referring Image Segmentation"
 authors:
-- "[Liang Lin](http://www.linliang.net/)^*" 
-- yanpx^* (co-first)
+- Liang Lin
+- yanpx
 - Xiaoqian Xu
 - Sibei Yang
 - Kun Zeng
-- "[Guanbin Li](http://guanbinli.com)"
+- Guanbin Li
+
+author_notes:
+- "Equal contribution"
+- "Equal contribution"
 
 date: "2021-04-19T00:00:00Z"
 doi: ""
@@ -24,10 +28,10 @@ publication_types: ["2"]
 publication: IEEE Transactions on Multimedia
 publication_short: In *IEEE TMM*
 
-abstract: 
+abstract: Referring image segmentation aims at segmenting out the object or stuff referred to by a natural language expression. The challenge of this task lies in the requirement of understanding both vision and language. The linguistic structure of a referring expression can provide an intuitive and explainable layout for reasoning over visual and linguistic concepts. In this paper, we propose a structured attention network (SANet) to explore the multimodal reasoning over the dependency tree parsed from the referring expression. Specifically, SANet implements the multimodal reasoning using an attentional multimodal tree-structure recurrent module (AMTreeGRU) in a bottom-up manner. In addition, for spatial detail improvement, SANet further incorporates the semantics-guided low-level features into high-level ones using the proposed attentional skip connection module. Extensive experiments on four public benchmark datasets demonstrate the superiority of our proposed SANet with more explainable visualization examples.
 
 # Summary. An optional shortened abstract.
-summary: IEEE Transactions on Multimedia **(*IEEE TMM*)**, 2021. **[JCR Q1]**
+summary: IEEE Transactions on Multimedia **(IEEE TMM)**, 2021. **[JCR Q1]**
 
 tags:
 - Deep Learning

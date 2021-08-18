@@ -2,12 +2,12 @@
 title: "Semi-Supervised Video Salient Object Detection Using Pseudo-Labels"
 authors:
 - yanpx
-- "[Guanbin Li](http://guanbinli.com)"
+- Guanbin Li
 - Yuan Xie
 - Zhen Li 
 - Chuan Wang
-- "[Tianshui Chen](http://tianshuichen.com/)"
-- "[Liang Lin](http://www.linliang.net/)"
+- Tianshui Chen
+- Liang Lin
 date: "2019-10-27T00:00:00Z"
 doi: ""
 
@@ -27,7 +27,7 @@ publication_short: In *ICCV2019*
 abstract: Deep learning-based video salient object detection has recently achieved great success with its performance significantly outperforming any other unsupervised methods. However, existing data-driven approaches heavily rely on a large quantity of pixel-wise annotated video frames to deliver such promising results. In this paper, we address the semi-supervised video salient object detection task using pseudo-labels. Specifically, we present an effective video saliency detector that consists of a spatial refinement network and a spatiotemporal module. Based on the same refinement network and motion information in terms of optical flow, we further propose a novel method for generating pixel-level pseudo-labels from sparsely annotated frames. By utilizing the generated pseudo-labels together with a part of manual annotations, our video saliency detector learns spatial and temporal cues for both contrast inference and coherence enhancement, thus producing accurate saliency maps. Experimental results demonstrate that our proposed semi-supervised method even greatly outperforms all the state-of-the-art fully supervised methods across three public benchmarks of VOS, DAVIS, and FBMS.
 
 # Summary. An optional shortened abstract.
-summary: The IEEE International Conference on Computer Vision **(*ICCV*)**, 2019. **[CCF A]**
+summary: The IEEE International Conference on Computer Vision **(ICCV)**, 2019. **[CCF A]**
 
 tags:
 - Deep Learning

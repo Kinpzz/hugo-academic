@@ -1,35 +1,47 @@
-+++
-# A Skills section created with the Featurette widget.
-widget = "featurette"  # See https://sourcethemes.com/academic/docs/page-builder/
-headless = true  # This file represents a page section.
-active = false  # Activate this widget? true/false
-weight = 230  # Order that this section will appear.
+---
+active: false
+# An instance of the Featurette widget.
+# Documentation: https://wowchemy.com/docs/page-builder/
+widget: featurette
 
-title = "Skills"
-subtitle = ""
+# This file represents a page section.
+headless: false
+
+# Order that this section appears on the page.
+weight: 30
+
+title: Skills
+subtitle:
 
 # Showcase personal skills or business features.
-# 
-# Add/remove as many `[[feature]]` blocks below as you like.
-# 
-# For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
+# - Add/remove as many `feature` blocks below as you like.
+# - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
+feature:
+- description: 90%
+  icon: r-project
+  icon_pack: fab
+  name: R
+- description: 100%
+  icon: chart-line
+  icon_pack: fas
+  name: Statistics
+- description: 10%
+  icon: camera-retro
+  icon_pack: fas
+  name: Photography
 
-[[feature]]
-  icon = "code"
-  icon_pack = "fas"
-  name = """Program Language"""
-  description = "Python, C/C++, MATLAB"
+# Uncomment to use emoji icons.
+#- icon: ":smile:"
+#  icon_pack: "emoji"
+#  name: "Emojiness"
+#  description: "100%"  
 
-[[feature]]
-  icon = "tools"
-  icon_pack = "fas"
-  name = "Deep Learning Tools"
-  description = "PyTorch, MXNet, Caffe"  
-
-[[feature]]
-  icon = "book"
-  icon_pack = "fas"
-  name = "English Level"
-  description = "CET6 529"
-
-+++
+# Uncomment to use custom SVG icons.
+# Place your custom SVG icon in `assets/media/icons/`.
+# Reference the SVG icon name (without `.svg` extension) in the `icon` field.
+# For example, reference `assets/media/icons/xyz.svg` as `icon: 'xyz'`
+#- icon: "your-custom-icon-name"
+#  icon_pack: "custom"
+#  name: "Surfing"
+#  description: "90%"
+---
